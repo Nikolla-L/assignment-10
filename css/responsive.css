@@ -19,6 +19,9 @@
     .header-wrapper{
         width:67%;
     }
+    .nav-list nav ul{
+        margin-left:0;
+    }
     .header-box{
         margin-top:100px;
     }
