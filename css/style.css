@@ -36,6 +36,7 @@ header a{
         -ms-flex-pack: justify;
             justify-content: space-between;
     width:561px;
+    margin-left:400px;
 }
 .nav-list ul li{
     font:700 12px poppins;
@@ -50,6 +51,7 @@ header a{
 }
 .header-wrapper i{
     display: none;
+    position:relative;
 }
 .header-box{
     position:absolute;
