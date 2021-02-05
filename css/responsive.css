@@ -99,6 +99,20 @@
         -webkit-transition:1.2s;
         -o-transition:1.2s;
         transition:1.2s;
+        -webkit-animation:cimcima 1.18s linear infinite;
+                animation:cimcima 1.18s linear infinite;
+    }
+    @-webkit-keyframes cimcima{
+        0%{color:white;}
+        38%{color:red;}
+        51%{color:black;}
+        100%{color:white;}
+    }
+    @keyframes cimcima{
+        0%{color:white;}
+        38%{color:red;}
+        51%{color:black;}
+        100%{color:white;}
     }
     .nav-list{
         display: none;
